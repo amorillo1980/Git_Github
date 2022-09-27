@@ -10,4 +10,4 @@ LA FECHA ES 2025
 
 modificamos usurio y contraseña
 
-git show agregado
+git show agregado simulando commit para merge antes de la rama
