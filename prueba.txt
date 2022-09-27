@@ -10,4 +10,14 @@ LA FECHA ES 2025
 
 modificamos usurio y contraseña
 
+<<<<<<< HEAD
 git show agregado simulando commit para merge antes de la rama
+=======
+git show agregado
+
+DESDE ACA ESTOY EN LA RAMA MH2155
+
+segunda modificacion rama mh2155
+
+tercera modificacion rama mh2155
+>>>>>>> MH2155
