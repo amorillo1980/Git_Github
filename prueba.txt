@@ -9,3 +9,5 @@ espero que tengan un ecelente dia
 LA FECHA ES 2022
 
 modificamos usurio y contraseña
+
+git show agregado
